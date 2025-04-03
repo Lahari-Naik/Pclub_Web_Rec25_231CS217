@@ -61,7 +61,7 @@ This project is an interactive photography gallery web application that displays
 >  - cd Pclub_Web_Rec25_231CS217
 >  - cd Grid-project
 - Run the html file
-> - xdg-open grid.html
+> - xdg-open index.html
  
 ## Code Structure
 
