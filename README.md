@@ -50,9 +50,13 @@ This project is an interactive photography gallery web application that displays
   
 ## Setup Instructions
 
-- Clone the repository
-- Open the grid.html file in a web browser
-- No server or build process required - this is a static website
+- Open terminal and clone the repository
+ > - git clone https://github.com/Lahari-Naik/Pclub_Web_Rec25_231CS217.git
+- Navigate into project directory
+>  - cd Pclub_Web_Rec25_231CS217
+>  - cd Grid-project
+- Run the html file
+> - xdg-open grid.html
  
 ## Code Structure
 
