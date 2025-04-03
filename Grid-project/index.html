@@ -10,6 +10,7 @@
 
 </head>
 <body>
+    
     <h1 class="page-title">Photography Gallery</h1>
     <div class="filter-buttons">
         <button class="filter-btn active" onclick="filterCards('all')">All Photos</button>
@@ -21,8 +22,10 @@
     <button class="theme-toggler" id="theme-toggler">
         <i class="fas fa-moon"></i> Toggle Theme
     </button>
-
-    <div class="images" id="cardContainer">
+    <header>
+        <div class="images" id="cardContainer">
+    </header>
+    <main>
         <div class="card food all">
             <div class="image">
                 <div class="front">
@@ -281,6 +284,13 @@
             <button class="close-btn" onclick="closePopup()">✖</button>
             <img id="fullImage" src="" alt="Full Image">
         </div>
-    </div>     
+    </div> 
+</main>
+<footer>
+     <footer>
+        <p>&copy; 2025 Photography Gallery. All rights reserved.</p>
+        <p>Contact us: <a href="mailto:laharinaik@gmail.com">info@photogallery.com</a></p>
+    </footer>
+</footer>
 </body>
 </html>
