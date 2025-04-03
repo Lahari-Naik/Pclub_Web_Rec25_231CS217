@@ -201,8 +201,8 @@
 }
 
 .popup-overlay img {
-    width:auto;
-    height: auto;
+    width:45%;
+    height: 60%;
     align-items: center;
     border-radius: 8px;
 }
