@@ -8,6 +8,7 @@ This project is an interactive photography gallery web application that displays
 ## Key Features
 <details>
   <summary>Details</summary>
+  
 ### 1. Responsive Grid Layout
 - The gallery uses CSS Grid to organize images into a responsive layout that adapts to different screen sizes
 - Media queries ensure proper display on smaller screens
