@@ -73,4 +73,3 @@ This project is an interactive photography gallery web application that displays
 - JavaScript: Manages interactivity, filtering, and social features
 </details>
 
-# Pclub_Web_Rec25_231CS217
