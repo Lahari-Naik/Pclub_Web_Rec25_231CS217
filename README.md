@@ -1,8 +1,13 @@
 # Photography Gallery
 ## Project Overview
+<details>
+  <summary>Details</summary>
 This project is an interactive photography gallery web application that displays various categories of images with a flip-card effect. Users can filter images by category, toggle themes, like photos, share images, and view them in full-screen mode.
+</details>
 
 ## Key Features
+<details>
+  <summary>Details</summary>
 ### 1. Responsive Grid Layout
 - The gallery uses CSS Grid to organize images into a responsive layout that adapts to different screen sizes
 - Media queries ensure proper display on smaller screens
@@ -33,8 +38,11 @@ This project is an interactive photography gallery web application that displays
 - Double-clicking on any card opens the image in a full-screen overlay
 - Close button to exit the full view
 - Shared links directly open the full image view
+  </details>
   
 ## Technical Implementation
+<details>
+  <summary>Details</summary>
 ### CSS Features
 - Custom CSS variables for theming
 - CSS transitions and transforms for card flipping effect
@@ -47,13 +55,22 @@ This project is an interactive photography gallery web application that displays
 - Local storage for theme persistence
 - Event listeners for user interaction
 - URL parameter handling for shared content
+  </details>
   
 ## Setup Instructions
+<details>
+  <summary>Details</summary>
 - Clone the repository
 - Open the grid.html file in a web browser
 - No server or build process required - this is a static website
+  </details>
   
 ## Code Structure
+<details>
+  <summary>Details</summary>
 - HTML: Defines the gallery structure and card layout
 - CSS: Handles styling, animations, and responsive design
 - JavaScript: Manages interactivity, filtering, and social features
+</details>
+
+# Pclub_Web_Rec25_231CS217
