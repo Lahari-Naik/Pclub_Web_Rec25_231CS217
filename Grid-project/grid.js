@@ -42,9 +42,14 @@ shuffleCards();
 function toggleLike(button) {
 let countSpan = button.nextElementSibling;
 let count = parseInt(countSpan.textContent);
+if(button.classList.contain("liked")
+   {
+button.classList.remove("liked");
+count--;
+}else{
 button.classList.add("liked");
 count++;
-
+}
 countSpan.textContent = count;
 }
 
